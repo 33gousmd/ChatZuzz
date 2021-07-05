@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890135674769",
+    "project_id": "chatzuzz",
+    "storage_bucket": "chatzuzz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890135674769:android:c349ff999fb1cef3ec6430",
+        "android_client_info": {
+          "package_name": "com.gous.chatzuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890135674769-o9bl047kburpt7mi6l4o17onf7smodjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhB5WptAUtLstCBEuBhrtpx-anI55VmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890135674769-o9bl047kburpt7mi6l4o17onf7smodjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
